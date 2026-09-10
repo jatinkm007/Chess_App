@@ -24,6 +24,7 @@ import {
 } from "./utils/moveValidation";
 
 import { generateNotation, addCheckSymbol } from "./utils/notation";
+import { Analytics } from "@vercel/analytics/react";
 import "./App.css";
 
 const createInitialRights = () => ({
@@ -413,6 +414,7 @@ function App() {
       {pendingPromotion && (
         <PromotionModal color={turn} onSelect={handlePromotion} />
       )}
+      <Analytics />
     </div>
   );
 }
