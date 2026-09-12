@@ -8,7 +8,7 @@ The project provides a two-player chess experience with legal move validation, t
 
 ## 🚀 Live Demo
 
-🔗 **Live Demo:** Add your deployed link here
+🔗 **Live Demo:** [(https://chess-app-j.vercel.app/)]
 
 ---
 
