@@ -122,3 +122,7 @@ Example:
 1. e4 e5
 2. Nf3 Nc6
 3. Bb5 a6
+
+###Credits
+
+All Rights Reserved @Jatin
