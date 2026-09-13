@@ -112,7 +112,7 @@ Each player has an individual countdown timer.
 - The inactive player's timer remains paused
 - The game ends when a player's timer reaches zero
 
-###Credits
+### Credits
 
 All Rights Reserved @Jatin
 
