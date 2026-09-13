@@ -112,6 +112,10 @@ Each player has an individual countdown timer.
 - The inactive player's timer remains paused
 - The game ends when a player's timer reaches zero
 
+###Credits
+
+All Rights Reserved @Jatin
+
 ### 📝 Move History
 
 All valid moves are recorded in a move list.
@@ -122,7 +126,3 @@ Example:
 1. e4 e5
 2. Nf3 Nc6
 3. Bb5 a6
-
-###Credits
-
-All Rights Reserved @Jatin
